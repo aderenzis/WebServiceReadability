@@ -22,8 +22,8 @@ ReadabilityUtil.getReadabilityValue("wsdlPath");
 
 	1. Run the Main of the project. This file is located in  the package edu.uncoma.wnbr.main
 	1. It is necessary to run the application including these parameters:
-		1.The first parameter is the project path. Example: /home/username/workspace/WNBasedWSDLReadability/
-		1.The second parameter is the path where the WSDL documents are located. It is necessary that the WSDL documents are located in a single folder.
+		* The first parameter is the project path. Example: /home/username/workspace/WNBasedWSDLReadability/
+		* The second parameter is the path where the WSDL documents are located. It is necessary that the WSDL documents are located in a single folder.
 	1. Finally the result file will be generated in the result folder inside the project. 
 
 
