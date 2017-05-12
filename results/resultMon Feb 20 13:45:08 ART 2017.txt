@@ -1,0 +1,7 @@
+Original_Reducido;NaN
+Original_wmc_500_EasyWSDL;NaN
+Original_wmc_20_EasyWSDL;NaN
+Original_wmc_5_EasyWSDL;NaN
+Original_wmc_10_EasyWSDL;NaN
+Original_wmc_1_EasyWSDL;NaN
+Original_wmc_2_EasyWSDL;NaN

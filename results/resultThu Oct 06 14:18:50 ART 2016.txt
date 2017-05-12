@@ -1,0 +1,6 @@
+QueueService.wsdl;2.1542084145999643
+OFACSDN.asmx.wsdl;1.5576250312807418
+Weather.asmx.wsdl;2.1828690168045863
+results;NaN
+GoogleSearch.wsdl;2.428722669911407
+airport.asmx.wsdl;2.4117732268221244
